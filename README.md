@@ -45,7 +45,7 @@ I'm a **Software Developer/Engineer** passionate about building robust and effic
 
 ### 📫 How to Reach Me:
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here](https://www.linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** [Adwaith Krishna](https://www.linkedin.com/in/adwaithk/)
+* **Email:** [adwaithambiyil@gmail.com](mailto:adwaithambiyil@gmail.com)
 
 ---
