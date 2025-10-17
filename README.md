@@ -1,20 +1,51 @@
-### Hi there 👋
+# Hi there 👋 I'm ROCKSTAR040!
 
 [![@adwaithk's Holopin board](https://holopin.me/adwaithk)](https://holopin.io/@adwaithk)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ROCKSTAR040&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKSTAR040&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCKSTAR040&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ROCKSTAR040/ROCKSTAR040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+### 🚀 About Me
 
+I'm a **Software Developer/Engineer** passionate about building robust and efficient applications. My foundation is in software engineering, but I'm driven by a curiosity for the technologies that will shape our future. This has led me to explore two fascinating domains:
 
-Here are some ideas to get you started:
+-   🛡️ **Cybersecurity:** I have a strong interest in building secure software and understanding the landscape of digital threats. I enjoy learning about ethical hacking, penetration testing, and defensive strategies to protect systems and data.
+-   🌌 **Quantum Computing:** I am just beginning my journey into the world of quantum mechanics. I'm currently focused on grasping the fundamental concepts like qubits, superposition, and entanglement, and I'm learning to build my first quantum circuits using **IBM's Qiskit**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I'm Currently Learning
+
+* **Core Development:** Refining my skills in [mention 1-2 languages/frameworks you use, e.g., Python, JavaScript, Flutter].
+* **Cybersecurity:** Exploring topics like Web Application Security, Network fundamentals, and participating in CTF challenges.
+* **Quantum Computing:**
+    * The basic principles of quantum mechanics.
+    * Writing simple quantum programs with **Qiskit**.
+    * Understanding the potential applications of quantum algorithms.
+
+---
+
+### 🤝 I’m Looking to Collaborate On
+
+* Open-source software development projects.
+* Beginner-friendly cybersecurity projects or CTF teams.
+* Learning groups or simple, educational projects related to Quantum Computing and Qiskit.
+
+---
+
+### 💬 Ask Me About
+
+* Software development practices.
+* Getting started in cybersecurity.
+* My learning journey and resources for Quantum Computing.
+
+---
+
+### 📫 How to Reach Me:
+
+* **LinkedIn:** [Your LinkedIn Profile URL Here](https://www.linkedin.com/in/yourprofile)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
