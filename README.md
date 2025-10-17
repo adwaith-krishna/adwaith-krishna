@@ -12,6 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-krishna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -19,6 +20,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,dart,flutter,kotlin,opencv,tensorflow,mysql,firebase,gcp,azure,git,github,docker,linux,kali,vscode,figma&perline=10" />
   </a>
 </p>
+
 ### 🚀 About Me
 
 I'm a **Software Developer/Engineer** passionate about building robust and efficient applications. My foundation is in software engineering, but I'm driven by a curiosity for the technologies that will shape our future. This has led me to explore two fascinating domains:
