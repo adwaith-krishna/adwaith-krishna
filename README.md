@@ -2,8 +2,8 @@
 
 [![@adwaithk's Holopin board](https://holopin.me/adwaithk)](https://holopin.io/@adwaithk)
 [![GitHub Streak](https://streak-stats.demolab.com?user=adwaith-krishna&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKSTAR040&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCKSTAR040&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-krishna&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adwaith-krishna&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
