@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,dart,flutter,kotlin,opencv,mysql,firebase,gcp,azure,git,github,docker,linux,kali,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,dart,flutter,kotlin,opencv,tensorflow,mysql,firebase,gcp,azure,git,github,docker,linux,kali,vscode,figma&perline=10" />
   </a>
 </p>
 ### 🚀 About Me
