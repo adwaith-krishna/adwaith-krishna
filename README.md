@@ -1,10 +1,17 @@
 # Hi there 👋 I'm ROCKSTAR040!
 
 [![@adwaithk's Holopin board](https://holopin.me/adwaithk)](https://holopin.io/@adwaithk)
-[![GitHub Streak](https://streak-stats.demolab.com?user=adwaith-krishna&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-krishna&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adwaith-krishna&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=adwaith-krishna&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=adwaith-krishna&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaith-krishna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 ---
 
 ### 🚀 About Me
